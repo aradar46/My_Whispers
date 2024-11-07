@@ -56,7 +56,7 @@ def record_audio(filename="audio.wav"):
 class AppGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Whisper Transcription")
+        self.root.title("My Whispers")
         self.root.geometry("400x250")
         self.root.attributes('-topmost', True)
 

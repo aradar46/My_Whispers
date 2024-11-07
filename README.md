@@ -56,7 +56,7 @@ You can install the required dependencies using the `requirements.yml` file.
 1. Run the application:
 
    ```sh
-   python3 whisper_app.py
+   python3 my_whispers_app.py
    ```
 2. Use the GUI to start recording, stop recording, and transcribe audio.
 3. In the first run, you need to select the model you want to use. You can select the model from the dropdown menu and it will be downloaded automatically and can be used in the next runs.
