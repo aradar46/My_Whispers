@@ -28,7 +28,7 @@ The application requires the following dependencies:
 
 - Python 3.10
 - OpenAI Whisper
-- PyAudio
+- PyAudio 
 - Pyperclip
 - WebRTC VAD
 - Tkinter
@@ -36,6 +36,7 @@ The application requires the following dependencies:
 You can install the required dependencies using the `requirements.yml` file.
 
 ## Installation
+- make sure you have portaudio installed on your system (sudo apt install portaudio19-dev).
 
 1. Clone the repository:
 
